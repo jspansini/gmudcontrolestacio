@@ -21,6 +21,7 @@ Funcionalidades Principais
 <li>AWS Lambda: Funções serverless para executar operações automatizadas no back-end, garantindo escalabilidade e performance.</li>
   
 <h4>Como Rodar o Projeto</h4>
+
 <li>Pré-requisitos</li>
 <li>Node.js v14+</li>
 <li>React Native CLI</li>
