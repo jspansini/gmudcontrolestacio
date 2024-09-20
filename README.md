@@ -26,4 +26,4 @@ Funcionalidades Principais
 <li>Node.js v14+</li>
 <li>React Native CLI</li>
 <li>Conta no Firebase para autenticação</li>
-<li></li>Conta no Supabase para integração com o banco de dados</li>
+<li>Conta no Supabase para integração com o banco de dados</li>
